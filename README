@@ -1,4 +1,4 @@
-Finance-PaycheckRecords-Fetcher version 0.01, released April 20, 2013
+Finance-PaycheckRecords-Fetcher version 1.000, released July 12, 2014
 
 
 This module can download paystubs from PaycheckRecords.com, so you can
@@ -32,16 +32,16 @@ DEPENDENCIES
 
 
 CHANGES
-    Here's what's new in version 0.01 of Finance-PaycheckRecords-Fetcher:
+    Here's what's new in version 1.000 of Finance-PaycheckRecords-Fetcher:
     (See the file "Changes" for the full revision history.)
 
-	- Initial release
+	- Add example script
 
 
 
 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Christopher J. Madsen.
+This software is copyright (c) 2014 by Christopher J. Madsen.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

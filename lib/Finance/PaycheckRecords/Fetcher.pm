@@ -21,8 +21,8 @@ use 5.010;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
-# This file is part of Finance-PaycheckRecords-Fetcher 0.01 (April 20, 2013)
+our $VERSION = '1.000';
+# This file is part of Finance-PaycheckRecords-Fetcher 1.000 (July 12, 2014)
 
 use Carp ();
 use File::Slurp ();
@@ -131,8 +131,8 @@ Finance::PaycheckRecords::Fetcher - Fetch paystubs from PaycheckRecords.com
 
 =head1 VERSION
 
-This document describes version 0.01 of
-Finance::PaycheckRecords::Fetcher, released April 20, 2013.
+This document describes version 1.000 of
+Finance::PaycheckRecords::Fetcher, released July 12, 2014.
 
 =head1 SYNOPSIS
 
@@ -263,11 +263,11 @@ or through the web interface at
 L<< http://rt.cpan.org/Public/Bug/Report.html?Queue=Finance-PaycheckRecords-Fetcher >>.
 
 You can follow or contribute to Finance-PaycheckRecords-Fetcher's development at
-L<< http://github.com/madsen/finance-paycheckrecords-fetcher >>.
+L<< https://github.com/madsen/finance-paycheckrecords-fetcher >>.
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Christopher J. Madsen.
+This software is copyright (c) 2014 by Christopher J. Madsen.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
